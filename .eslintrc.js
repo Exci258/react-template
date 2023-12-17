@@ -31,5 +31,6 @@ module.exports = {
         'no-underscore-dangle': 'off',
         'react/jsx-max-props-per-line': ['error', { maximum: 3 }],
         'jsx-a11y/label-has-associated-control': 'off',
+        'no-restricted-globals': ['warn'],
     },
 };
